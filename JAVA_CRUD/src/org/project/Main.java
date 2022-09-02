@@ -2,7 +2,13 @@ package org.project;
 
 public class Main {
 	public static void main(String[] args) {
-		System.out.println("hello world");
+		Main m = new Main();
+		m.run(args);
 	}
+	
+	public void run(String[] args) {
+		new WordManager().start();
+	}
+	
 
 }
