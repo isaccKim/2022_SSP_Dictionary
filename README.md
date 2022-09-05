@@ -1,5 +1,14 @@
 # SSP_myProject
 
+
+<div align="center">
+<p align="center"><img src="https://user-images.githubusercontent.com/98035984/188369909-15e6408f-252a-4a2e-9ccf-e14fcb9dbc71.png" height="300px" width="300px"></p>
+  
+
+ <br/>
+  
+ <br/>
+
 #### 4. 단어 추가 기능
 #### 1. 모든 단어 보기 기능 
 
