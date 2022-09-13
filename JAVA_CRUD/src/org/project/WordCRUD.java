@@ -68,7 +68,7 @@ public class WordCRUD implements ICRUD{
 			j++;
 		}
 		System.out.println("--------------------------------");
-		return idlist;
+		return idlist; 
 	}
 	public void updateItem() {
 		 System.out.print("수정할 단어 검색: ");
