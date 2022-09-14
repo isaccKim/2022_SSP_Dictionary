@@ -60,4 +60,7 @@
 
 <img width="540" src="https://github.com/isaccKim/SSP_myProject/blob/main/Screenshot/afterChanged.png">
 
+### 7. 파일 저장
+
+<img width="540" src="https://github.com/isaccKim/SSP_myProject/blob/main/Screenshot/saveFile.png">
 </div>
