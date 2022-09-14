@@ -23,11 +23,12 @@
 
 ## hw2
  <br/>
- 
+
 ### 2. 수준별 단어보기
 
 <img width="540" src="https://github.com/isaccKim/SSP_myProject/blob/main/Screenshot/searchLevel.png">
 
+- - -
 ### 3. 단어 검색
 
 <img width="540" src="https://github.com/isaccKim/SSP_myProject/blob/main/Screenshot/searchName.png">
@@ -36,10 +37,12 @@
 
 <img width="540" src="https://github.com/isaccKim/SSP_myProject/blob/main/Screenshot/beforeChanged.png">
 
+- - -
 ### 5. 단어 수정
 
 <img width="540" src="https://github.com/isaccKim/SSP_myProject/blob/main/Screenshot/update.png">
 
+- - -
 ### 6. 단어 삭제
 
 ####  단어 삭제전 
@@ -48,6 +51,7 @@
 ####  단어 삭제 후 
 <img width="540" src="https://github.com/isaccKim/SSP_myProject/blob/main/Screenshot/delete.png">
 
+- - -
 ### 7. 파일 저장
 
 <img width="540" src="https://github.com/isaccKim/SSP_myProject/blob/main/Screenshot/saveFile.png">
