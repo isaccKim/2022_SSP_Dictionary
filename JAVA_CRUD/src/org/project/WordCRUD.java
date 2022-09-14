@@ -165,12 +165,6 @@ public class WordCRUD implements ICRUD{
 		listAll(level);
 		
 	}
-	public void searchword() {
-		System.out.print("=> 원하는 단어는? ");
-		String keyword= sc.next();
-		listAll(keyword);
-		
-	}
 	
 }
  
