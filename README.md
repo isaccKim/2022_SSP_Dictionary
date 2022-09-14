@@ -6,7 +6,18 @@
  <br/>
   
  <br/>
+
+ </div>
  
+## 🐥 만능 사전
+ - 궁금한 내용을 적어놔용!
+
+<br/>
+
+## 🧚🏻‍♂️ 소속
+  - 한동대학교 전산전자 공학부
+
+<br/>
  
 - - -
 ## hw1
@@ -33,7 +44,7 @@
 
 <img width="540" src="https://github.com/isaccKim/SSP_myProject/blob/main/Screenshot/searchName.png">
 
-### 수정전 Dictionary.txt 파일
+### 🗂 수정전 Dictionary.txt 파일
 
 <img width="540" src="https://github.com/isaccKim/SSP_myProject/blob/main/Screenshot/beforeChanged.png">
 
@@ -45,10 +56,10 @@
 - - -
 ### 6. 단어 삭제
 
-####  단어 삭제전 
+> ####  단어 삭제전 
 <img width="540" src="https://github.com/isaccKim/SSP_myProject/blob/main/Screenshot/loadData.png">
 
-####  단어 삭제 후 
+> ####  단어 삭제 후 
 <img width="540" src="https://github.com/isaccKim/SSP_myProject/blob/main/Screenshot/delete.png">
 
 - - -
@@ -56,7 +67,7 @@
 
 <img width="540" src="https://github.com/isaccKim/SSP_myProject/blob/main/Screenshot/saveFile.png">
 
-### 수정후 Dictionary.txt 파일
+### 🗂 수정후 Dictionary.txt 파일
 
 <img width="540" src="https://github.com/isaccKim/SSP_myProject/blob/main/Screenshot/afterChanged.png">
 
