@@ -44,7 +44,7 @@
 
 <img width="540" src="https://github.com/isaccKim/SSP_myProject/blob/main/Screenshot/searchName.png">
 
-### 🗂 수정전 Dictionary.txt 파일
+### 🗂  수정전 Dictionary.txt 파일
 
 <img width="540" src="https://github.com/isaccKim/SSP_myProject/blob/main/Screenshot/beforeChanged.png">
 
@@ -67,7 +67,7 @@
 
 <img width="540" src="https://github.com/isaccKim/SSP_myProject/blob/main/Screenshot/saveFile.png">
 
-### 🗂 수정후 Dictionary.txt 파일
+### 🗂  수정후 Dictionary.txt 파일
 
 <img width="540" src="https://github.com/isaccKim/SSP_myProject/blob/main/Screenshot/afterChanged.png">
 
